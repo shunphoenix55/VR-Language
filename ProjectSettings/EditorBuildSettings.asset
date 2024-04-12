@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AppleGrabTest.unity
+    guid: 749fe20f8e9fbfc468c8a16eceb30fe3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2b87c9313886e7f4c885818cfa2ebca8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d82f55511efa0a945ada55ef3b2431cb, type: 2}
