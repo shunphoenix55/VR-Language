@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Meta XR Interaction SDK OVR Samples/63.0.0/Example Scenes/TouchGrabExamples.unity
+    guid: ade7d3882b4495145a8fe79f5624beab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0a007aa2ca6444014900bc7de67b5b98, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 355bf38f07d424a738675e032f157257, type: 2}
